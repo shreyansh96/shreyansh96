@@ -34,23 +34,24 @@
 ### Languages and Tools
 
 <p align="center"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="javascript" width="50" height="50"/
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" height="50"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" title="python" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="50" height="50"/>  
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50" title="R Project" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" title="SQL" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title="MySQL" width="50" height="50"/> 
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" title="Java" width="50" height="50"/> 
 <br>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" width="50" height="50" />
-<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="50" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" title="Pytorch" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" title="Tensorflow" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" title="Numpy" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"  width="50" height="50" />
+<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" title="Vim" width="50" height="50"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="Kubernetes" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" title="Git" width="50" height="50"/> 
 
   
 </p>
