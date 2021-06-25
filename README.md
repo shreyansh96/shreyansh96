@@ -34,9 +34,9 @@
 ### Languages and Tools
 
 <p align="center"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" title="python" width="50" height="50"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="50" height="50"/>  
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" title="HTML5" width="50" height="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" title="CSS3" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50" title="R Project" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="50" height="50"/>
