@@ -2,12 +2,12 @@
 
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shreyansh!
-<p><em>Software Engineer at Dosepack, <a href="https://www.meditab.com/resources/our-partners.html"> Meditab Group </a></em></p>
+<p><em>Solution Architect at Dosepack, <a href="https://www.meditab.com/resources/our-partners.html"> Meditab Group </a></em></p>
 
 [![Twitter: shreyansh_ag](https://img.shields.io/twitter/follow/shreyansh_ag?style=social)](https://twitter.com/shreyansh_ag)
 [![Linkedin: shreyanshagarwal](https://img.shields.io/badge/-shreyanshagarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyanshagarwal/)](https://www.linkedin.com/in/shreyanshagarwal/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shreyansh96.shreyansh96&style=plastic)
-[![GoogleScholar: shreyanshagarwal](https://img.shields.io/badge/Scholar-citations:36-blue?style=plastic&logo=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/google_scholar.svg)](https://scholar.google.com/citations?hl=en&user=q-5mm6cAAAAJ#d=gsc_md_fol)
+[![GoogleScholar: shreyanshagarwal](https://img.shields.io/badge/Scholar-citations:94-blue?style=plastic&logo=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/google_scholar.svg)](https://scholar.google.com/citations?hl=en&user=q-5mm6cAAAAJ#d=gsc_md_fol)
 
 
 
